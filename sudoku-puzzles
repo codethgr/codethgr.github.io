@@ -10,7 +10,7 @@
       </ul>
     </nav>
   </header>
-<link rel="stylesheet" href="./styles.css">
+<link rel="stylesheet" href="./sudoku-puzzles.css">
 <head>
 
  <main> <!-- Landing Page -->
