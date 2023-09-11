@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<body>  
 
+<head>
 <header>
     <nav>
       <ul>
@@ -10,6 +10,8 @@
       </ul>
     </nav>
   </header>
+<link rel="stylesheet" href="./styles.css">
+<head>
 
  <main> <!-- Landing Page -->
     <div class="hero">
