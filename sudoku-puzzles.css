@@ -1,1 +1,28 @@
+/* HEADER */
+nav {
+    width: 100%;
+}
 
+ul {
+    display: flex;
+    justify-content: flex-start;
+    gap: 2.5vw;
+    width: 95%;
+}
+
+ul li {
+    font-family: 'Cigra', serif;
+    font-size: 1.35rem;
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+ul li a:hover {
+    color: #bf8b67;
+    text-decoration: underline;
+}
